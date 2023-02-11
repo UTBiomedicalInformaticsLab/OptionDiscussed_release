@@ -1,4 +1,6 @@
 # OptionDiscussed_release
+Code for paper: https://www.nature.com/articles/s41598-022-11478-0
+
 ```
 .
 ├── data # put option_discussed.csv in this folder
